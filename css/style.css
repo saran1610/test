@@ -1,0 +1,28 @@
+*{ 
+ margin:0;
+ padding:0;
+ box-sizing:border-box;
+color:white;
+}
+.container{
+	width:100%;
+	display:flex;
+	padding:120px;
+	background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("../image/cta-bg.jpg");
+}
+.card2{
+	display:flex;
+	align-items:flex-end;
+	padding-left:150px;
+}
+.card2 a{
+	text-decoration:none;
+	padding:10px;
+	border:1px solid white;
+	border-radius:25px 25px 25px 20px;
+    width:150px;
+	text-align:center;
+}
+h1{
+	font-family:serif;
+}
